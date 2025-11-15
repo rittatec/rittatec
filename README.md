@@ -54,8 +54,8 @@
 
 ## 🌐 Onde me encontrar
 <p align="left">
-  ✉️ Email: coloque aqui se quiser  
-  💼 LinkedIn: coloque aqui se quiser  
+  ✉️ Email: ritta.tec@gmail.com  
+  💼 LinkedIn: Atualização de perfil em andamento!  
 </p>
 
 ---
