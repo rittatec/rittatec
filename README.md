@@ -44,9 +44,9 @@
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=rittatec&show_icons=true&theme=tokyonight&count_private=true)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rittatec&layout=compact&theme=tokyonight)
 
 </div>
 
